@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutor SQLite</string>
+    <string name="Simpan" />
+    <string name="simpan">Simpan</string>
+    <string name="update">update</string>
+    <string name="hapus">hapus</string>
+</resources>
